@@ -2,7 +2,7 @@ package com.stacksimplify.restservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//Spring boot building blocks
+//Spring boot building blocks1
 @SpringBootApplication
 public class SpringbootBuildingblocksPracticeApplication {
 
