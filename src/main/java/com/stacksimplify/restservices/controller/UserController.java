@@ -32,7 +32,7 @@ public class UserController {
 		User createUser = this.userService.createUser(user);
 		return createUser;
 	}
-	
+	//
 	@GetMapping("/users/{id}")
 	public Optional<User> getUserById(@PathVariable("id") Long id){
 		Optional<User> user = this.userService.getUserById(id);
